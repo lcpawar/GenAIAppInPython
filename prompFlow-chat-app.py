@@ -1,3 +1,6 @@
+# Use a prompt flow to manage conversation in a chat app
+# https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/03-Use-prompt-flow-chat.html
+
 import urllib.request
 import json
 
